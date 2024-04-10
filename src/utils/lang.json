@@ -1,0 +1,20 @@
+{
+    "en":{
+        "welcomemessage":"Welcome..!",
+        "normalMessage":"We hope you are happy with ReactJS",
+        "greetingMessage":"Have a grat Day"
+
+    },
+    "mr":{
+        "welcomemessage":"स्वागत ahe",
+        "normalMessage":"आम्ही आशा करतो की तुम्ही ReactJS सह आनंदी आहात",
+        "greetingMessage":"तुमचा दिवस चांगला जावो"
+    },
+    "hi":{
+        "welcomemessage":"स्वागत hey",
+        "normalMessage":"हमें उम्मीद है कि आप ReactJS से खुश हैं",
+        "greetingMessage":"आपका दिन अच्छा रहे"
+
+    }
+
+}
